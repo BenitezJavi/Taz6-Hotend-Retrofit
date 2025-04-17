@@ -31,4 +31,10 @@ Useful Links:
 
 - Firmware Changes
 
-  If you do want to use this new hotend, you will have to create a custom firmware for the printer. All of the needed changes are within the hotend specsheet. 
+  If you do want to use this new hotend, you will have to create a custom firmware for the printer. All of the needed changes are within the hotend specsheet.
+
+This is a working document and will be updated as the iterative process continues. I also plan on providing my firmware and part designs based on level of interest. 
+
+Please feel free to support my caffeine addiction and support your fellow nerd.
+
+<a href="https://www.buymeacoffee.com/dreamweaverx3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
