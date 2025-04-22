@@ -27,7 +27,7 @@ Useful Links:
 
 - New Parts
 
-  Something to note is that the original fan is a 5V fan while the one provided with the new hotend is a 12V fan. This required that a new fan be purchased that could produce the same amouny of airflow as the one required by the design for the E3D V6 hotend (Testing is still in progress). 
+  Something to note is that the original fan is a 5V fan while the one provided with the new hotend is a 12V fan. This required that a new fan be purchased that could produce the same amount of airflow as the one required by the design for the E3D V6 hotend (Testing is still in progress). 
 
 - Firmware Changes
 
