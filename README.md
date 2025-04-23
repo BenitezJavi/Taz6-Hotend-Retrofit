@@ -17,6 +17,8 @@ Useful Links:
 
 [Original TAZ 6 Firmware](https://download.lulzbot.com/TAZ/6.0/software/2016Q2/Marlin/)
 
+[Printable Files for HotEnd Replacement](https://www.thingiverse.com/thing:7017572)
+
 - Buying the correct hotend.
 
   The TAZ 6 requires a toolhead that receives an 24V input, otherwise the voltage needs to be reduced to not damage the hotend. The design chosen for the retrofit is a 24V V6 Bowden Drive Pre-Assembled.
@@ -34,6 +36,7 @@ Useful Links:
   If you do want to use this new hotend, you will have to create a custom firmware for the printer. All of the needed changes are within the hotend specsheet.
 
 This is a working document and will be updated as the iterative process continues. I also plan on providing my firmware and part designs based on level of interest. 
+
 
 Please feel free to support my caffeine addiction and support your fellow nerd.
 
